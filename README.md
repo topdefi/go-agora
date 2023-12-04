@@ -33,7 +33,7 @@ Official Golang execution layer implementation of the Genesis protocol.
 
 ## Building from source Ubuntu 20.04/22.04
 
-Building `geth` requires both a Go (version 1.19 or later) and a C compiler. You can install
+Building `agora` requires both a Go (version 1.19 or later) and a C compiler. You can install
 them using your favorite package manager. 
 
 ### Setup Go Path
